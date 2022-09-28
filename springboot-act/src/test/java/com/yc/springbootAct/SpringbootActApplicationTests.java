@@ -50,6 +50,7 @@ class SpringbootActApplicationTests {
         //4输出流程部署信息
         System.out.println("流程部署的id:" + deploy.getId());
         System.out.println("流程部署的名称：" + deploy.getName());
+        System.out.println("----------------------------");
     }
 
     @Test
